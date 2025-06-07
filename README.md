@@ -24,5 +24,4 @@ A responsive progress bar that shows steps in a process. Users can click "Next" 
 4. The progress bar fills up as you proceed through the steps.
 
 ***🔗 Live Demo :--***
-
-[CLICK ME](https://journey-tracker-nine.vercel.app/)👉
+👉[CLICK ME](https://journey-tracker-nine.vercel.app/)👈
