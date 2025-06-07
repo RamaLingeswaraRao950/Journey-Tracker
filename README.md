@@ -1,6 +1,6 @@
 ***⏩ Description :--***
 
-A simple and interactive progress bar component that visually indicates steps in a multi-step process. Users can move forward or backward using "Next" and "Previous" buttons, with a red progress line and highlighted step circles to show the current stage.
+A responsive progress bar that shows steps in a process. Users can click "Next" or "Previous" to move between steps, with a red line and active circles showing the current step.
 
 ***✨ Features :--***
 
@@ -25,4 +25,4 @@ A simple and interactive progress bar component that visually indicates steps in
 
 ***🔗 Live Demo :--***
 
-👉 [Click Here to View Live Demo](https://journey-tracker-nine.vercel.app/)
+[CLICK ME](https://journey-tracker-nine.vercel.app/)👉
